@@ -1,0 +1,43 @@
+html{
+    background: #7e8d8d;
+    background-image: linear-gradient(to right, white 0%, teal 100%);
+    font-family: fantasy;
+}
+header{
+    display: contents;
+    background: #fff; 
+    width: 300px;
+    height: 135px;
+    padding: 15px;
+    background-color: plum;
+    box-shadow: 10px 10px;
+}
+body {
+    background: #fff; 
+    width: 500px;
+    height: 135px;
+    padding: 15px;
+    background-color: plum;
+    box-shadow: 10px 10px;
+    font-family: cursive;
+}
+section {
+    width: 500px;
+    height: 200px;
+}
+h1 {
+    color: black;
+    text-shadow: -2px -2px grey;
+    font-weight: 300;
+    width: 500px;
+}
+nav ul {
+    font-family:monospace;
+    font-weight: 100;
+}
+ol {
+    width: 500px;
+}
+footer {
+    text-align: center;
+}
